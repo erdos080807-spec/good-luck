@@ -1,2 +1,2 @@
-# good-luck
+# good-luck-letter
 letter
