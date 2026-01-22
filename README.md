@@ -1,2 +1,2 @@
-# good-luck-letter
+# good-luck-letter.github.io
 letter
